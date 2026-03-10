@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Oi! Eu sou a Miryan
 
-<!--
-**0404miryan/0404miryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Estou aprendendo programação e criando meus primeiros projetos.]
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo
+⭐ Por agora estou focada em Python, HTML e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+gmail: miryan.piccagli@gmail.com
+[![Gmail]()
+![LinkedIn](https://www.linkedin.com/in/miryan-piccagli-francisco-344233368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+⭐ Sempre aprendendo e evoluindo na programação!
